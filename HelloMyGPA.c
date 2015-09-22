@@ -12,7 +12,7 @@ int main()
     double goal                       = 0;
     double target                   = 0;
 
-    //Get know of smester and check...
+    //Get know of semester and check...
     do
     {
         printf("Please tell me this is which semester in your college life.\n");
